@@ -1,0 +1,42 @@
+{
+  "basics": {
+    "name": "Hung Dao",
+    "label": "Member of Technical Staff",
+    "email": "hung.dao@me.com",
+    "profiles": [{
+      "network": "facebook",
+      "url": "https://www.facebook.com/app_scoped_user_id/10154241731804924/"
+    }]
+  },
+  "work": [{
+    "company": "Groupon",
+    "position": "Member of Technical Staff",
+    "startDate": "2012-02-01",
+    "highlights": []
+  }, {
+    "company": "Ditto",
+    "position": "Web Developer Intern",
+    "startDate": "2012-01-01",
+    "endDate": "2012-04-01",
+    "highlights": []
+  }],
+  "education": [{
+    "institution": "Trần Đại Nghĩa High School",
+    "studyType": " ",
+    "startDate": "2012-09-01",
+    "endDate": "2012-07-01"
+  }, {
+    "institution": "Aalto University School of Science and Technology",
+    "studyType": " ",
+    "startDate": null
+  }, {
+    "institution": "Aalto University School of Science and Technology",
+    "studyType": " ",
+    "startDate": null
+  }, {
+    "institution": "Helsinki Metropolia University of Applied Sciences",
+    "studyType": "Bachelor's degree",
+    "startDate": "2010-09-01",
+    "endDate": "2010-07-01"
+  }]
+}
