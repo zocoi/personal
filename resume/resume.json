@@ -2,8 +2,8 @@
   "basics": {
     "name": "Hung Dao",
     "label": "Senior Software Engineer at Groupon",
-    "phone": "",
-    "website": "",
+    "phone": "415 200 7217",
+    "website": "https://github.com/zocoi",
     "summary": "A web enthusiast.\n\nRuby on Rails, HTML, CSS,  Backbone.js, D3.js and Amazon Web Services.\n\nInfrastructure architect, Docker and git-flow deployment.",
     "location": {
       "address": "San Francisco, CA, 94104",
