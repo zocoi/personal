@@ -1,42 +1,272 @@
 {
   "basics": {
     "name": "Hung Dao",
-    "label": "Member of Technical Staff",
-    "email": "hung.dao@me.com",
-    "profiles": [{
-      "network": "facebook",
-      "url": "https://www.facebook.com/app_scoped_user_id/10154241731804924/"
-    }]
+    "label": "Senior Software Engineer at Groupon",
+    "phone": "",
+    "website": "",
+    "summary": "A web enthusiast.\n\nRuby on Rails, HTML, CSS,  Backbone.js, D3.js and Amazon Web Services.\n\nInfrastructure architect, Docker and git-flow deployment.",
+    "location": {
+      "address": "San Francisco, CA, 94104",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
+    },
+    "profiles": []
   },
-  "work": [{
-    "company": "Groupon",
-    "position": "Member of Technical Staff",
-    "startDate": "2012-02-01",
-    "highlights": []
-  }, {
-    "company": "Ditto",
-    "position": "Web Developer Intern",
-    "startDate": "2012-01-01",
-    "endDate": "2012-04-01",
-    "highlights": []
-  }],
-  "education": [{
-    "institution": "Trần Đại Nghĩa High School",
-    "studyType": " ",
-    "startDate": "2012-09-01",
-    "endDate": "2012-07-01"
-  }, {
-    "institution": "Aalto University School of Science and Technology",
-    "studyType": " ",
-    "startDate": null
-  }, {
-    "institution": "Aalto University School of Science and Technology",
-    "studyType": " ",
-    "startDate": null
-  }, {
-    "institution": "Helsinki Metropolia University of Applied Sciences",
-    "studyType": "Bachelor's degree",
-    "startDate": "2010-09-01",
-    "endDate": "2010-07-01"
-  }]
+  "work": [
+    {
+      "company": "Groupon",
+      "position": "Senior Software Engineer",
+      "website": "",
+      "startDate": "2015-09-01",
+      "summary": "Ruby on Rails developer and platform architect for Card Linked Offers from Groupon.",
+      "highlights": []
+    },
+    {
+      "company": "Groupon",
+      "position": "Platform Engineer",
+      "website": "",
+      "startDate": "2012-04-01",
+      "summary": "Pingpin, Inc acquired by Groupon April 2012\n\nDeveloping features across frontend and backend platforms for Breadcrumb PRO",
+      "highlights": [],
+      "endDate": "2015-08-01"
+    },
+    {
+      "company": "Ditto (Pingpin, Inc.)",
+      "position": "Software Engineer Intern",
+      "website": "",
+      "startDate": "2012-01-01",
+      "summary": "Rocking on a delightful photo sharing app\n•\tWeb development using Ruby on Rails, CoffeeScript, Sass and Backbone.js\n•\tDeploying to a staging system\n•\tDesigning and developing features on frontend and backend with team.",
+      "highlights": [],
+      "endDate": "2012-04-01"
+    },
+    {
+      "company": "HammerKit Oy",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "undefined-2009-01",
+      "summary": "•\tDeveloped web sites using HammerKit CMS for clients\n•\tDeveloped modules and components based on HammerKit APIs\n•\tDeveloped account management app from scratch with Symfony framework \n•\tImplemented credit card payments\n•\tWriting test cases, performing unit testing and fixing bugs",
+      "highlights": [],
+      "endDate": "2011-10-01"
+    },
+    {
+      "company": "Barisma Oy",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2009-04-01",
+      "summary": "·   Planning and designing database schema\n·   Web programming in Symfony framework\n·   UI programming with jQuery\n·   Writing test case, performing unit testing and fixing bugs",
+      "highlights": [],
+      "endDate": "2009-05-01"
+    },
+    {
+      "company": "MahShelf Oy",
+      "position": "Web Development Mentor",
+      "website": "",
+      "startDate": "2008-02-01",
+      "summary": "Provide training on Symfony framework, Propel and PHP to MahShelf trainees.",
+      "highlights": [],
+      "endDate": "2009-11-01"
+    },
+    {
+      "company": "MahShelf Oy",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2008-02-01",
+      "summary": "•\tDesigned database schemas\n•\tWeb programming using Symfony framework \n•\tPlanning the infrastructure for comics storage using Amazon S3\n•\tImplementing, managing server instances at Amazon EC2\n•\tImplementing backup strategy and writing backup script",
+      "highlights": [],
+      "endDate": "2010-07-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Aalto University School of Science and Technology",
+      "area": "",
+      "studyType": "Master's Programme",
+      "startDate": "2010-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2012-01-01"
+    },
+    {
+      "institution": "Savonia University of Applied Sciences",
+      "area": "",
+      "studyType": "",
+      "startDate": "2005-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2007-01-01"
+    },
+    {
+      "institution": "Metropolia University of Applied Sciences",
+      "area": "",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2007-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2010-01-01"
+    },
+    {
+      "institution": "Tran Dai Nghia High School for the gifted",
+      "area": "",
+      "studyType": "",
+      "startDate": "2003-01-01",
+      "gpa": "",
+      "courses": [],
+      "endDate": "2005-01-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Symfony",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Java",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Linux",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "iOS development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Interface Design",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "APIs",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Software Engineering",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Unit Testing",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JRuby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "HTML 5",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Platform Architecture",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "JavaScript",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Backbone.js",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Git",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Front-end",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Ruby on Rails",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Docker",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "DevOps",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "jQuery",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Amazon Web Services (AWS)",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "CSS",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "PHP",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Web Development",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "Databases",
+      "level": "",
+      "keywords": []
+    },
+    {
+      "name": "User Experience",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": null
+    },
+    {
+      "language": "Vietnamese",
+      "fluency": null
+    }
+  ],
+  "references": []
 }
