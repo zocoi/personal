@@ -2,15 +2,16 @@
   "basics": {
     "name": "Hung Dao",
     "label": "Senior Software Engineer at Groupon",
-    "phone": "415 200 7217",
+    "picture": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAlWAAAAJGVhMWRhZGQ3LTQ3ZWUtNGRkMC04ZTYxLWI1NDYwNmE4OGYyNA.jpg",
+    "phone": "(415) 200 7217",
     "website": "https://github.com/zocoi",
     "summary": "A web enthusiast.\n\nRuby on Rails, HTML, CSS,  Backbone.js, D3.js and Amazon Web Services.\n\nInfrastructure architect, Docker and git-flow deployment.",
     "location": {
-      "address": "San Francisco, CA, 94104",
-      "postalCode": "",
-      "city": "",
+      "address": "",
+      "postalCode": "94107",
+      "city": "San Francisco",
       "countryCode": "",
-      "region": ""
+      "region": "CA"
     },
     "profiles": []
   },
@@ -43,19 +44,19 @@
     },
     {
       "company": "HammerKit Oy",
-      "position": "Web Developer",
+      "position": "Software Developer",
       "website": "",
-      "startDate": "undefined-2009-01",
+      "startDate": "2009-11-01",
       "summary": "•\tDeveloped web sites using HammerKit CMS for clients\n•\tDeveloped modules and components based on HammerKit APIs\n•\tDeveloped account management app from scratch with Symfony framework \n•\tImplemented credit card payments\n•\tWriting test cases, performing unit testing and fixing bugs",
       "highlights": [],
       "endDate": "2011-10-01"
     },
     {
       "company": "Barisma Oy",
-      "position": "Web Developer",
+      "position": "Software Consultant",
       "website": "",
       "startDate": "2009-04-01",
-      "summary": "·   Planning and designing database schema\n·   Web programming in Symfony framework\n·   UI programming with jQuery\n·   Writing test case, performing unit testing and fixing bugs",
+      "summary": "· Planning and designing database schema\n· Web programming in Symfony framework\n·   UI programming with jQuery\n·   Writing test case, performing unit testing and fixing bugs",
       "highlights": [],
       "endDate": "2009-05-01"
     },
@@ -70,7 +71,7 @@
     },
     {
       "company": "MahShelf Oy",
-      "position": "Web Developer",
+      "position": "Cofounder - Software Engineer",
       "website": "",
       "startDate": "2008-02-01",
       "summary": "•\tDesigned database schemas\n•\tWeb programming using Symfony framework \n•\tPlanning the infrastructure for comics storage using Amazon S3\n•\tImplementing, managing server instances at Amazon EC2\n•\tImplementing backup strategy and writing backup script",
