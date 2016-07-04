@@ -2,12 +2,19 @@
 make: Hyundai
 model: Elantra
 year: 2013
-milage: 22000
+milage: 25000
 oil:
   - 10W-30
   - 5W-30
 maintenance:
   - date: 2015-12-01
+    milage: 22000
     services:
       - rotate tire
       - replace engine oil and filter
+  - date: 2016-07-04
+    milage: 25000
+    services:
+      - replace engine oil and filter
+      - fill washer fluid, coolant/antifreeze
+
