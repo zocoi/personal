@@ -4,8 +4,7 @@ model: Corolla
 year: 2012
 milage: 10000
 oil:
-  - 10W-30
-  - 5W-30
+  - 0W-20
 maintenance:
   - date: 2016-06-28
     milage: 10000
