@@ -2,10 +2,15 @@
 make: Toyota
 model: Corolla
 year: 2012
-milage: 10000
+milage: 20000
 oil:
   - 0W-20
 maintenance:
+  - date: 2019-12-18
+    milage: 20000
+    services:
+      - replace engine oil and filter
+      - fill washer fluid and coolant/antifreeze
   - date: 2016-06-28
     milage: 10000
     services:
