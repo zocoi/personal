@@ -17,4 +17,8 @@ maintenance:
     services:
       - replace engine oil and filter
       - fill washer fluid, coolant/antifreeze
-
+  - date: 2020-11-23
+    milage: 30000
+    services:
+      - replace engine oil and filter
+      - fill washer fluid, coolant/antifreeze
