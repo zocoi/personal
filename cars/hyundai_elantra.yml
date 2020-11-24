@@ -4,8 +4,7 @@ model: Elantra
 year: 2013
 milage: 25000
 oil:
-  - 10W-30
-  - 5W-30
+  - 5W-20
 maintenance:
   - date: 2015-12-01
     milage: 22000
